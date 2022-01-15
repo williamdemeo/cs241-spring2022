@@ -159,16 +159,16 @@ At the end of the semester, letter grades will be assigned roughly according to 
 **All exams take place in the usual classroom**, [ECEC 100][].
 
 + **MIDTERM EXAM 1**  
-**Topics:** Chs 1--6, 11, 15  
-**DATE:**  Wed, 27 Feb 2019
-  
+**Topics**. TBA  
+**DATE**.  TBA  
+
 + **MIDTERM EXAM 2**  
-**Topics:** Chs 7, 8, 9, 11, 12, 15  
-**DATE:** Fri, 5 Apr 2019  
+**Topics**. TBA  
+**DATE**. TBA
 
 + **FINAL EXAM** (cumulative)  
-**DATE:** Mon, 6 May 2019  
-**TIME:** 1:30--4pm
+**DATE**. TBA  
+**TIME**. TBA
 
 
 In accordance with university policy, **the final exam must be taken by all students at the scheduled time in the usual classroom.** *Do not make plans which would have you depart campus before the scheduled final exam date.*
@@ -186,7 +186,7 @@ Here are some important facts about the homework policy in this class.
  
 The lowest (or missed) homework score will be dropped and not counted toward the final course grade.
 
-Descriptions of each homework assignment will be available in the homework directory of this repository.  You are strongly encouraged to start the homework early, so that you will have time to get help from the instructor or tutors in the MARC when you get stuck... and you will get stuck.
+Descriptions of each homework assignment will be available in the homework directory of this repository.  You are strongly encouraged to start the homework early, so that you will have time to get help from the instructor or [a tutor](#tutoring-service) if you need it.
 
 -----------------------------------
 ## Make-up Policy
