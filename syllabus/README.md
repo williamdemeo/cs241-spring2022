@@ -73,7 +73,7 @@ This course emphasizes the reading and writing of mathematical proofs.
 
 Students are expected to have access to the following textbook:
 
-<a target="_blank"  href="https://www.amazon.com/gp/product/0321964683/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321964683&linkCode=as2&tag=typefunc-20&linkId=cf0db5f997d8bd0d8d8278c8d95ab54d"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0321964683&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=typefunc-20" ></a>
+<a target="_blank"  href="https://www.amazon.com/gp/product/0321964683/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321964683&linkCode=as2&tag=typefunc-20&linkId=cf0db5f997d8bd0d8d8278c8d95ab54d"><img border="0" src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0321964683&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=typefunc-20" ></a>
 
 [Discrete Mathematics, 8th ed](https://www.amazon.com/gp/product/0321964683/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321964683&linkCode=as2&tag=typefunc-20&linkId=ead5f0951025320305173ae6a9da9498)
 
