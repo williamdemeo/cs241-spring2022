@@ -68,7 +68,7 @@ This course emphasizes the reading and writing of mathematical proofs.
 
 ## Reading Materials
 
-### Textbook (required)
+### Primary Textbook
 
 Students are expected to have access to the following textbook:
 
@@ -83,7 +83,7 @@ Students are expected to have access to the following textbook:
 **Year**. 2018
 
 
-### Other Resources (optional)
+### Secondary Textbook
 
 [Logic and Proof](https://leanprover.github.io/logic_and_proof/) by Avigad, Lewis, and van Doorn [(pdf)](https://github.com/williamdemeo/cs241-spring2022/blob/master/books/logic_and_proof_cu-edition.pdf)
 
