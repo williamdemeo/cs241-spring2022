@@ -48,7 +48,7 @@ The regularly scheduled office hours are subject to change. Changes will be anno
 
 ## Introduction
 
-You are now reading the main course web page and syllabus for CS 241.
+You are now reading the main course web page for CS 241.
 
 *This page will be updated throughout the semester. Students are expected to visit this page periodically to stay updated.* 
 
@@ -132,8 +132,8 @@ Tiktoking, Tweeting, Tindering, Facebooking, Instagramming, Snapchatting, Whatsa
 The breakdown of the final course grade is as follows:  
 
 + Homework: 30 points total  
-+ Two midterm exams: 40 points (20 each)  
-+ Final exam: 30 points  
++ Midterm exams: 30 points  
++ Final exam: 40 points  
 
 At the end of the semester, letter grades will be assigned roughly according to the following table. However, the scale may be shifted depending on overall student performance.
 
@@ -157,17 +157,14 @@ At the end of the semester, letter grades will be assigned roughly according to 
 
 **All exams take place in the usual classroom**, [ECEC 100][].
 
-+ **MIDTERM EXAM 1**  
-**Topics**. TBA  
-**DATE**.  TBA  
++  **MIDTERM EXAM**  
+   **Topics**. Material covered in weeks 1 through 6 of [the course syllabus](https://github.com/williamdemeo/cs241-spring2022/tree/master/syllabus).  
+   **DATE**. 8 Mar 2022
 
-+ **MIDTERM EXAM 2**  
-**Topics**. TBA  
-**DATE**. TBA
 
-+ **FINAL EXAM** (cumulative)  
-**DATE**. TBA  
-**TIME**. TBA
++  **FINAL EXAM** (cumulative)  
+   **DATE**. TBA  
+   **TIME**. TBA
 
 
 In accordance with university policy, **the final exam must be taken by all students at the scheduled time in the usual classroom.** *Do not make plans which would have you depart campus before the scheduled final exam date.*
@@ -201,23 +198,24 @@ then you might be able to take a make-up exam *before the scheduled exam time*.
 To request a make-up exam, a student must provide documented evidence of
 one of the following:
 
-+ Documented medical excuse - student's own medical emergency.
-+ Documented medical excuse - a member of the student's family has a medical emergency.
-+ Extra curricular activity sponsored University of Colorado.
-+ Armed forces deployment (military duty).
-+ Officially mandated court appearances, including jury duty.
-+ A conflict with another exam or if you have three or more final exams on a
-  given day.  (In each case the exam with the fewest students must arrange the make-up exam.)
++  Documented medical excuse (student's own medical emergency).
++  Documented medical excuse (a member of the student's family has a medical emergency).
++  Extra curricular activity sponsored by NJIT.
++  Armed forces deployment (military duty).
++  Officially mandated court appearances, including jury duty.
++  A conflict with another exam or if you have three or more final exams on a given day.  (In each case the exam with the fewest students must arrange the make-up exam.)
 
-If you miss an exam due to some unforeseen circumstance, you must contact the 
-professor within one class meeting after the missed test and provide an
-explanation. If your excuse is accepted, the missed test score may be replaced 
+If you miss the midterm exam due to some unforeseen circumstance, you must contact the 
+professor within one class meeting after the missed test and provide an explanation.
+If your excuse is accepted, the missed test score may be replaced 
 with 80% of your final exam score. For example, if your excuse is accepted and
 you score a 90% on the final, then you will receive a 72% for the missed test
 (0.80*0.90 = 0.72).
 
 -----------------------------------------------------------
+
 ## Asking Questions
+
 Students are strongly encouraged to ask lots of questions.
 If you don't understand something, please ask!
 
