@@ -9,7 +9,9 @@
 ### Recordings
 
 +  [Lecture 01](https://njit.webex.com/njit/ldr.php?RCID=21f3a5e434a096e627c8d5428bd066fa) ...just the end (the first part was administrative stuff)  
-   Webex meeting recording: CS 241: Foundations of Computer Science I (Sec 006; Lecture 1)-20220118 1840-1  
+   Webex meeting recording: CS 241-20220118 1840-1  
    Recording link: https://njit.webex.com/njit/ldr.php?RCID=21f3a5e434a096e627c8d5428bd066fa
   
-+  Lecture 02 (coming soon!)
++  [Lecture 02](https://njit.webex.com/njit/ldr.php?RCID=0f6a1d8dfe8123c636690992eb866534)  
+   Webex meeting recording: CS 241-20220121 1806-1  
+   Recording link: https://njit.webex.com/njit/ldr.php?RCID=0f6a1d8dfe8123c636690992eb866534
