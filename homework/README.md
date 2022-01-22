@@ -2,10 +2,10 @@
 
 ### PDF Templates
 
-This directory contains the pdf templates for the "written component" of the homework assignments.
+This directory contains the pdf template for the "written component" of each homework assignment.
 
-Students should download these pdf files and fill them in with solutions.  The completed pages should be scanned and uploaded to the [gradescope][] website to be graded.
+Students should download the pdf file and fill it in with their solutions.  The completed pages must be scanned and uploaded to the [gradescope][] website for grading.
 
-Some assignments will also have an "electronic component" that is to be filled in directly on the [gradescope][] website.
+Note that some assignments will also include an "electronic component" that students should complete on the [gradescope][] website.
 
 [gradescope]: https://www.gradescope.com/courses/360140/assignments
