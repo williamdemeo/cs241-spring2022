@@ -15,12 +15,13 @@ Below we use the following acronyms:
 
 **DM** = Discrete Mathematics by Johnsonbaugh  
 **LP** = [Logic and Proof](https://leanprover.github.io/logic_and_proof/) by Avigad, et al
-
+**ec** = electronic component
+**wc** = written component
 
 | **Week** | **Date** | **Topic**                                         | **DM Reading**       | **LP Reading**        | **Homework**                  |
 |----------|----------|---------------------------------------------------|----------------------|-----------------------|-------------------------------|
 | **1**    | 18 Jan   | Course overview; Intro to Discrete Math           | §1.1                 | [Ch 1][]              |                               |
-|          | 21 Jan   | Naive set theory; intro to propositional logic    | §1.2, §1.3           | [Ch 11][], [Ch 2][]   | [HW 1][] due: 2 Feb 10:59pm   |
+|          | 21 Jan   | Naive set theory; intro to propositional logic    | §1.2, §1.3           | [Ch 11][], [Ch 2][]   | [HW 1 ec][], [HW 1 wc][] due: 2 Feb 10:59pm   |
 | **2**    | 25 Jan   | Propositional logic, natural deduction            | §1.4                 | [Ch 3][]              |                               |
 |          | 28 Jan   | First order logic (FOL), quantifiers,             | §1.5, §1.6           | [Ch 7][]              | [HW 2][] due: 9 Feb 10:59pm   |
 | **3**    | 1 Feb    | Classical reasoning, proof techniques             | §2.1, §2.2           | [Ch 5][], [Ch 6][]    |                               |
@@ -80,6 +81,24 @@ Below we use the following acronyms:
 [§17.1]: https://leanprover.github.io/logic_and_proof/the_natural_numbers_and_induction.html
 [§17.2]: https://leanprover.github.io/logic_and_proof/the_natural_numbers_and_induction.html#variants-of-induction
 [Ch 20]: https://leanprover.github.io/logic_and_proof/combinatorics.html
+[gradescope]: https://www.gradescope.com/courses/360140/assignments
 
+[HW 1 ec]: https://www.gradescope.com/courses/360140/assignments
+[HW 2 ec]: https://www.gradescope.com/courses/360140/assignments
+[HW 3 ec]: https://www.gradescope.com/courses/360140/assignments
+[HW 4 ec]: https://www.gradescope.com/courses/360140/assignments
+[HW 5 ec]: https://www.gradescope.com/courses/360140/assignments
+[HW 6 ec]: https://www.gradescope.com/courses/360140/assignments
+[HW 7 ec]: https://www.gradescope.com/courses/360140/assignments
+[HW 8 ec]: https://www.gradescope.com/courses/360140/assignments
+[HW 9 ec]: https://www.gradescope.com/courses/360140/assignments
 
-[HW 1]: https://github.com/williamdemeo/cs241-spring2022/blob/master/homework/hw01.pdf
+[HW 1 wc]: https://github.com/williamdemeo/cs241-spring2022/blob/master/homework/hw01.pdf
+[HW 2 wc]: https://github.com/williamdemeo/cs241-spring2022/blob/master/homework/hw02.pdf
+[HW 3 wc]: https://github.com/williamdemeo/cs241-spring2022/blob/master/homework/hw03.pdf
+[HW 4 wc]: https://github.com/williamdemeo/cs241-spring2022/blob/master/homework/hw04.pdf
+[HW 5 wc]: https://github.com/williamdemeo/cs241-spring2022/blob/master/homework/hw05.pdf
+[HW 6 wc]: https://github.com/williamdemeo/cs241-spring2022/blob/master/homework/hw06.pdf
+[HW 7 wc]: https://github.com/williamdemeo/cs241-spring2022/blob/master/homework/hw07.pdf
+[HW 8 wc]: https://github.com/williamdemeo/cs241-spring2022/blob/master/homework/hw08.pdf
+[HW 9 wc]: https://github.com/williamdemeo/cs241-spring2022/blob/master/homework/hw09.pdf
