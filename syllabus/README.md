@@ -18,19 +18,19 @@ Below we use the following acronyms:
 **ec** = electronic component
 **wc** = written component
 
-| **Week** | **Date** | **Topic**                                         | **DM Reading**       | **LP Reading**        | **Homework**                  |
-|----------|----------|---------------------------------------------------|----------------------|-----------------------|-------------------------------|
-| **1**    | 18 Jan   | Course overview; Intro to Discrete Math           | §1.1                 | [Ch 1][]              |                               |
+| **Week** | **Date** | **Topic**                                         | **DM Reading**       | **LP Reading**        | **Homework**                                  |
+|----------|----------|---------------------------------------------------|----------------------|-----------------------|-----------------------------------------------|
+| **1**    | 18 Jan   | Course overview; Intro to Discrete Math           | §1.1                 | [Ch 1][]              |                                               |
 |          | 21 Jan   | Naive set theory; intro to propositional logic    | §1.2, §1.3           | [Ch 11][], [Ch 2][]   | [HW 1 ec][], [HW 1 wc][] due: 2 Feb 10:59pm   |
-| **2**    | 25 Jan   | Propositional logic, natural deduction            | §1.4                 | [Ch 3][]              |                               |
-|          | 28 Jan   | First order logic (FOL), quantifiers,             | §1.5, §1.6           | [Ch 7][]              | [HW 2][] due: 9 Feb 10:59pm   |
-| **3**    | 1 Feb    | Classical reasoning, proof techniques             | §2.1, §2.2           | [Ch 5][], [Ch 6][]    |                               |
-|          | 4 Feb    | Natural deduction for FOL                         |                      | [Ch 8][]              | [HW 3][] due: 16 Feb 10:59pm  |
-| **4**    | 8 Feb    | Proof by induction                                | §2.4                 | [§17.1][]             |                               |
-|          | 11 Feb   | Strong induction, Well-ordering Principle         | §2.5                 | [§17.2][]             | [HW 4][] due: 23 Feb 10:59pm  |
-| **5**    | 15 Feb   | Order relations                                   | §3.3                 | [§13.1][], [§13.2][]  |                               |
-|          | 18 Feb   | Equivalence relations                             | §3.4                 | [§13.3][]             | [HW 5][] due: 2 Mar 10:59pm   |
-| **6**    | 22 Feb   | Functions, sequences                              | §3.1, §3.2           | [Ch 15][]             | |
+| **2**    | 25 Jan   | Propositional logic, natural deduction            | §1.4                 | [Ch 3][]              |                                               |
+|          | 28 Jan   | First order logic (FOL), quantifiers,             | §1.5, §1.6           | [Ch 7][]              | [HW 2 ec][], [HW 2 wc][] due: 9 Feb 10:59pm   |
+| **3**    | 1 Feb    | Classical reasoning, proof techniques             | §2.1, §2.2           | [Ch 5][], [Ch 6][]    |                                               |
+|          | 4 Feb    | Natural deduction for FOL                         |                      | [Ch 8][]              | | <!--[HW 3 ec][], [HW 3 wc][] due: 16 Feb 10:59pm  | -->
+| **4**    | 8 Feb    | Proof by induction                                | §2.4                 | [§17.1][]             |                                               |
+|          | 11 Feb   | Strong induction, Well-ordering Principle         | §2.5                 | [§17.2][]             | | <!-- [HW 4][] due: 23 Feb 10:59pm | -->
+| **5**    | 15 Feb   | Order relations                                   | §3.3                 | [§13.1][], [§13.2][]  |                                               |
+|          | 18 Feb   | Equivalence relations                             | §3.4                 | [§13.3][]             | | <!-- [HW 5][] due: 2 Mar 10:59pm   | -->
+| **6**    | 22 Feb   | Functions, sequences                              | §3.1, §3.2           | [Ch 15][]             |                                               |
 |          | 25 Feb   | Properties of functions                           |                      | [§15.2][]             | |
 | **7**    | 1 Mar    | Analysis of algorithms                            | §4.3                 |                       | |
 |          | 4 Mar    | Recursive algorithms                              | §4.4                 |                       | |
@@ -93,12 +93,12 @@ Below we use the following acronyms:
 [HW 8 ec]: https://www.gradescope.com/courses/360140/assignments
 [HW 9 ec]: https://www.gradescope.com/courses/360140/assignments
 
-[HW 1 wc]: https://github.com/williamdemeo/cs241-spring2022/blob/master/homework/hw01.pdf
-[HW 2 wc]: https://github.com/williamdemeo/cs241-spring2022/blob/master/homework/hw02.pdf
-[HW 3 wc]: https://github.com/williamdemeo/cs241-spring2022/blob/master/homework/hw03.pdf
-[HW 4 wc]: https://github.com/williamdemeo/cs241-spring2022/blob/master/homework/hw04.pdf
-[HW 5 wc]: https://github.com/williamdemeo/cs241-spring2022/blob/master/homework/hw05.pdf
-[HW 6 wc]: https://github.com/williamdemeo/cs241-spring2022/blob/master/homework/hw06.pdf
-[HW 7 wc]: https://github.com/williamdemeo/cs241-spring2022/blob/master/homework/hw07.pdf
-[HW 8 wc]: https://github.com/williamdemeo/cs241-spring2022/blob/master/homework/hw08.pdf
-[HW 9 wc]: https://github.com/williamdemeo/cs241-spring2022/blob/master/homework/hw09.pdf
+[HW 1 wc]: https://github.com/williamdemeo/cs241-spring2022/raw/master/homework/hw01-wc.pdf
+[HW 2 wc]: https://github.com/williamdemeo/cs241-spring2022/raw/master/homework/hw02-wc.pdf
+[HW 3 wc]: https://github.com/williamdemeo/cs241-spring2022/raw/master/homework/hw03-wc.pdf
+[HW 4 wc]: https://github.com/williamdemeo/cs241-spring2022/raw/master/homework/hw04-wc.pdf
+[HW 5 wc]: https://github.com/williamdemeo/cs241-spring2022/raw/master/homework/hw05-wc.pdf
+[HW 6 wc]: https://github.com/williamdemeo/cs241-spring2022/raw/master/homework/hw06-wc.pdf
+[HW 7 wc]: https://github.com/williamdemeo/cs241-spring2022/raw/master/homework/hw07-wc.pdf
+[HW 8 wc]: https://github.com/williamdemeo/cs241-spring2022/raw/master/homework/hw08-wc.pdf
+[HW 9 wc]: https://github.com/williamdemeo/cs241-spring2022/raw/master/homework/hw09-wc.pdf
