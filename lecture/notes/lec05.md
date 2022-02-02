@@ -27,10 +27,9 @@ For example, P(x) could denote the sentence "At temperature x, water boils."
 As it stands, P(x) is *not* a statement because it involves a **free variable**---namely, x.
 
 Sentences with free variables cannot be judged true or false until we are given a value for x.
-The may be true for some values of x (e.g., for x ≥ 100° C), and false for others (e.g., x < 100° C).
+They may be true for some values of x (e.g., x ≥ 100° C), and false for others (e.g., x < 100° C).
 
-A sentence or function or formula involving free variables, which may be true or false depending on how we assign values to the 
-free variables, is called a **predicate**.
+A sentence or function or formula involving free variables, which may be true or false depending on how we assign values to its free variables, is called a **predicate**.
 
 Logic involving predicates, the logical connectives, and rules of deduction is called **Predicate Logic** or **First Order Logic**.
 
@@ -38,6 +37,8 @@ Logic involving predicates, the logical connectives, and rules of deduction is c
 -------------------
 
 ## Quantifiers
+
+There are two "quantifiers" in logic, the universal quantifier (∀) and the existential quantifier (∃).
 
 ### The Universal Quantifier ∀
 
