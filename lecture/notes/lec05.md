@@ -19,6 +19,10 @@ Thus far in our journey into logic we have seen
 
 The system of logic based on 1., 2., and 3. is called **Propositional Logic**.
 
+-------------------
+
+## First Order Logic
+
 Propositional Logic is quite useful, but it can only take us so far. Eventually, we will find ourselves in situations where we want 
 to write sentences as functions, like P(x), where the truth value of P(x) may depend on the value of x.
 
@@ -33,14 +37,9 @@ A sentence or function or formula involving free variables, which may be true or
 
 Logic involving predicates, the logical connectives, and rules of deduction is called **Predicate Logic** or **First Order Logic**.
 
+There are two "quantifiers" in first order logic, the universal quantifier (∀) and the existential quantifier (∃).
 
--------------------
-
-## Quantifiers
-
-There are two "quantifiers" in logic, the universal quantifier (∀) and the existential quantifier (∃).
-
-### The Universal Quantifier ∀
+#### The Universal Quantifier ∀
 
 The **universal quantifier**, denoted ∀, means "for all."
 
@@ -99,7 +98,7 @@ which clearly does not depend on x.
    Incidentally, QED comes from Latin; it's the acronym of *quid erat demonstrandum*.)
 
 
-### The Existential Quantifier ∃
+#### The Existential Quantifier ∃
 
 The **existential quantifier**, denoted ∃, means "there exists."
 
