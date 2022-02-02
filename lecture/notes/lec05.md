@@ -233,7 +233,7 @@ These tell us how we can make use of (or compute with) each of the forms introdu
 2.  ∨-elimination rule
     ```
                    A    B
-                   ⋮     ⋮
+                   ⋮    ⋮
        A ∨ B       C    C
       ----------------------
                 C
