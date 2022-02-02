@@ -39,7 +39,7 @@ Logic involving predicates, the logical connectives, and rules of deduction is c
 
 There are two "quantifiers" in first order logic, the universal quantifier (∀) and the existential quantifier (∃).
 
-#### The Universal Quantifier ∀
+### The Universal Quantifier ∀
 
 The **universal quantifier**, denoted ∀, means "for all."
 
@@ -98,7 +98,7 @@ which clearly does not depend on x.
    Incidentally, QED comes from Latin; it's the acronym of *quid erat demonstrandum*.)
 
 
-#### The Existential Quantifier ∃
+### The Existential Quantifier ∃
 
 The **existential quantifier**, denoted ∃, means "there exists."
 
