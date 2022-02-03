@@ -26,3 +26,9 @@
 +  [Lecture 04](https://njit.webex.com/njit/ldr.php?RCID=7143657b6306bdacd14472a01ff8cb84)  
    Webex meeting recording: CS 241-20220128 1812-1  
    Recording link: https://njit.webex.com/njit/ldr.php?RCID=7143657b6306bdacd14472a01ff8cb84
+
++  [Lecture 05](https://njit.webex.com/njit/ldr.php?RCID=37a38ec14f00a5df216e0aaf74a52943)  
+   Webex meeting recording: CS 241-20220201 1800-1  
+   Recording link: https://njit.webex.com/njit/ldr.php?RCID=37a38ec14f00a5df216e0aaf74a52943
+   
+   
