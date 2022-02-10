@@ -31,4 +31,10 @@
    Webex meeting recording: CS 241-20220201 1800-1  
    Recording link: https://njit.webex.com/njit/ldr.php?RCID=37a38ec14f00a5df216e0aaf74a52943
    
-   
++  [Lecture 06](https://njit.webex.com/njit/ldr.php?RCID=c6e4a9e1a546cf19ad7d42f5d0bdc8ae)  
+   Webex meeting recording: CS 241-20220204 1807-1  
+   Recording link: https://njit.webex.com/njit/ldr.php?RCID=c6e4a9e1a546cf19ad7d42f5d0bdc8ae
+
++  [Lecture 07](https://njit.webex.com/njit/ldr.php?RCID=f847e3fba9b8c0c44f25fb47dbf31fb1)  
+   Webex meeting recording: CS 241-20220208 1756-1  
+   Recording link: https://njit.webex.com/njit/ldr.php?RCID=f847e3fba9b8c0c44f25fb47dbf31fb1
