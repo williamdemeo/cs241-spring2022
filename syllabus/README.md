@@ -23,7 +23,7 @@ Below we use the following acronyms:
 | **1**    | 18 Jan   | Course overview; Intro to Discrete Math           | §1.1                 | [Ch 1][]              |                                               |
 |          | 21 Jan   | Naive set theory; intro to propositional logic    | §1.2, §1.3           | [Ch 11][], [Ch 2][]   | [HW 1 ec][], [HW 1 wc][] due: 2 Feb 10:59pm   |
 | **2**    | 25 Jan   | Propositional logic, natural deduction            | §1.4                 | [Ch 3][]              |                                               |
-|          | 28 Jan   | First order logic (FOL), quantifiers,             | §1.5, §1.6           | [Ch 7][]              | [HW 2][] due ~9~ 11 Feb 11:59pm on [gradescope][] (deadline extended) |
+|          | 28 Jan   | First order logic (FOL), quantifiers,             | §1.5, §1.6           | [Ch 7][]              | [HW 2][] due ~9 Feb~ 11:59pm on [gradescope][] (deadline extended to 11 Feb) |
 | **3**    | 1 Feb    | Classical reasoning, proof techniques             | §2.1, §2.2           | [Ch 5][], [Ch 6][]    |                                               |
 |          | 4 Feb    | Natural deduction for FOL                         |                      | [Ch 8][]              | [HW 3][] due 16 Feb 11:59pm on [gradescope][] |
 | **4**    | 8 Feb    | Proof by induction                                | §2.4                 | [§17.1][]             |                                               |
