@@ -25,9 +25,9 @@ Below we use the following acronyms:
 | **2**    | 25 Jan   | Propositional logic, natural deduction            | §1.4                 | [Ch 3][]              |                                               |
 |          | 28 Jan   | First order logic (FOL), quantifiers,             | §1.5, §1.6           | [Ch 7][]              | [HW 2][] due ~9 Feb~ 11:59pm on [gradescope][] (deadline extended to 11 Feb) |
 | **3**    | 1 Feb    | Classical reasoning, proof techniques             | §2.1, §2.2           | [Ch 5][], [Ch 6][]    |                                               |
-|          | 4 Feb    | Natural deduction for FOL                         |                      | [Ch 8][]              | [HW 3][] due 16 Feb 11:59pm on [gradescope][] |
+|          | 4 Feb    | Natural deduction for FOL                         |                      | [Ch 8][]              | [HW 3][] due ~16 Feb~ 11:59pm on [gradescope][] (deadline extended to 18 Feb) |
 | **4**    | 8 Feb    | Proof by induction                                | §2.4                 | [§17.1][]             |                                               |
-|          | 11 Feb   | Strong induction, Well-ordering Principle         | §2.5                 | [§17.2][]             | | <!-- [HW 4][] due: 23 Feb 10:59pm | -->
+|          | 11 Feb   | Strong induction, Well-ordering Principle         | §2.5                 | [§17.2][]             | [HW 4][] due: 23 Feb 11:59pm on [gradescope][] |
 | **5**    | 15 Feb   | Order relations                                   | §3.3                 | [§13.1][], [§13.2][]  |                                               |
 |          | 18 Feb   | Equivalence relations                             | §3.4                 | [§13.3][]             | | <!-- [HW 5][] due: 2 Mar 10:59pm   | -->
 | **6**    | 22 Feb   | Functions, sequences                              | §3.1, §3.2           | [Ch 15][]             |                                               |
@@ -97,7 +97,7 @@ Below we use the following acronyms:
 [HW 2]: https://github.com/williamdemeo/cs241-spring2022/raw/master/homework/hw02.pdf
 [HW 3]: https://github.com/williamdemeo/cs241-spring2022/raw/master/homework/hw03.pdf
 [HW 3 wc]: https://github.com/williamdemeo/cs241-spring2022/raw/master/homework/hw03-wc.pdf
-[HW 4 wc]: https://github.com/williamdemeo/cs241-spring2022/raw/master/homework/hw04-wc.pdf
+[HW 4]: https://github.com/williamdemeo/cs241-spring2022/raw/master/homework/hw04.pdf
 [HW 5 wc]: https://github.com/williamdemeo/cs241-spring2022/raw/master/homework/hw05-wc.pdf
 [HW 6 wc]: https://github.com/williamdemeo/cs241-spring2022/raw/master/homework/hw06-wc.pdf
 [HW 7 wc]: https://github.com/williamdemeo/cs241-spring2022/raw/master/homework/hw07-wc.pdf
