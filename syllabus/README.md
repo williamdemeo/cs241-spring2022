@@ -29,7 +29,7 @@ Below we use the following acronyms:
 | **4**    | 8 Feb    | Proof by induction                                | §2.4                 | [§17.1][]             |                                               |
 |          | 11 Feb   | Strong induction, Well-ordering Principle         | §2.5                 | [§17.2][]             | [HW 4][] due: 23 Feb 11:59pm on [gradescope][] |
 | **5**    | 15 Feb   | Order relations                                   | §3.3                 | [§13.1][], [§13.2][]  |                                               |
-|          | 18 Feb   | Equivalence relations                             | §3.4                 | [§13.3][]             | | <!-- [HW 5][] due: 2 Mar 10:59pm   | -->
+|          | 18 Feb   | Equivalence relations                             | §3.4                 | [§13.3][]             | [HW 5][] due: ~2 Mar~ 11:59pm (deadline extended to 4 Mar) |
 | **6**    | 22 Feb   | Functions, sequences                              | §3.1, §3.2           | [Ch 15][]             |                                               |
 |          | 25 Feb   | Properties of functions                           |                      | [§15.2][]             | |
 | **7**    | 1 Mar    | Analysis of algorithms                            | §4.3                 |                       | |
@@ -96,10 +96,9 @@ Below we use the following acronyms:
 [HW 1 wc]: https://github.com/williamdemeo/cs241-spring2022/raw/master/homework/hw01-wc.pdf
 [HW 2]: https://github.com/williamdemeo/cs241-spring2022/raw/master/homework/hw02.pdf
 [HW 3]: https://github.com/williamdemeo/cs241-spring2022/raw/master/homework/hw03.pdf
-[HW 3 wc]: https://github.com/williamdemeo/cs241-spring2022/raw/master/homework/hw03-wc.pdf
 [HW 4]: https://github.com/williamdemeo/cs241-spring2022/raw/master/homework/hw04.pdf
-[HW 5 wc]: https://github.com/williamdemeo/cs241-spring2022/raw/master/homework/hw05-wc.pdf
-[HW 6 wc]: https://github.com/williamdemeo/cs241-spring2022/raw/master/homework/hw06-wc.pdf
-[HW 7 wc]: https://github.com/williamdemeo/cs241-spring2022/raw/master/homework/hw07-wc.pdf
-[HW 8 wc]: https://github.com/williamdemeo/cs241-spring2022/raw/master/homework/hw08-wc.pdf
-[HW 9 wc]: https://github.com/williamdemeo/cs241-spring2022/raw/master/homework/hw09-wc.pdf
+[HW 5]: https://github.com/williamdemeo/cs241-spring2022/raw/master/homework/hw05.pdf
+[HW 6]: https://github.com/williamdemeo/cs241-spring2022/raw/master/homework/hw06.pdf
+[HW 7]: https://github.com/williamdemeo/cs241-spring2022/raw/master/homework/hw07.pdf
+[HW 8]: https://github.com/williamdemeo/cs241-spring2022/raw/master/homework/hw08.pdf
+[HW 9]: https://github.com/williamdemeo/cs241-spring2022/raw/master/homework/hw09.pdf
