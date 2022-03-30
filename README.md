@@ -51,7 +51,7 @@ The regularly scheduled office hours are subject to change. Changes will be anno
 
 You are now reading the main course web page for CS 241.
 
-*This page will be updated throughout the semester. Students are expected to visit this page periodically to stay updated.* 
+*This page and [the course schedule][] will be updated throughout the semester. Students are expected to revisit these pages to stay informed about the course.* 
 
 ---
 
@@ -160,7 +160,7 @@ At the end of the semester, letter grades will be assigned roughly according to 
 **All exams take place in the usual classroom**, [ECEC 100][].
 
 +  **MIDTERM EXAM**  
-   **Topics**. Material covered in weeks 1 through 6 of [the course syllabus](https://github.com/williamdemeo/cs241-spring2022/tree/master/syllabus).  
+   **Topics**. Material covered in weeks 1 through 6 of [the course schedule](https://github.com/williamdemeo/cs241-spring2022/tree/master/syllabus).  
    **DATE**. 8 Mar 2022
 
 
@@ -265,3 +265,4 @@ early in the semester in order to have their learning needs appropriately met.
 
 [ECEC 100]: https://goo.gl/maps/ZBW1fdPqii6frCJZ7
 [Lean]: https://leanprover.github.io/
+[the course schedule]: https://github.com/williamdemeo/cs241-spring2022/tree/master/syllabus
