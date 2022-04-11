@@ -23,9 +23,9 @@ Below we use the following acronyms:
 | **1**    | 18 Jan   | Course overview; Intro to Discrete Math           | §1.1                 | [Ch 1][]              |                                                                |
 |          | 21 Jan   | Naive set theory; intro to propositional logic    | §§1.2, 1.3           | [Ch 11][], [Ch 2][]   | [HW 1 ec][], [HW 1 wc][] due: 2 Feb 10:59pm                    |
 | **2**    | 25 Jan   | Propositional logic, natural deduction            | §1.4                 | [Ch 3][]              |                                                                |
-|          | 28 Jan   | First order logic (FOL), quantifiers,             | §§1.5, 1.6           | [Ch 7][]              | [HW 2][] due ~9 Feb~ 11:59pm on (deadline extended to 11 Feb)  |
+|          | 28 Jan   | First order logic (FOL), quantifiers,             | §§1.5, 1.6           | [Ch 7][]              | [HW 2][] due ~9 Feb~ 11:59pm (deadline extended to 11 Feb)     |
 | **3**    | 1 Feb    | Classical reasoning, proof techniques             | §§2.1, 2.2           | [Ch 5][], [Ch 6][]    |                                                                |
-|          | 4 Feb    | Natural deduction for FOL                         |                      | [Ch 8][]              | [HW 3][] due ~16 Feb~ 11:59pm on (deadline extended to 18 Feb) |
+|          | 4 Feb    | Natural deduction for FOL                         |                      | [Ch 8][]              | [HW 3][] due ~16 Feb~ 11:59pm (deadline extended to 18 Feb)    |
 | **4**    | 8 Feb    | Proof by induction                                | §2.4                 | [§17.1][]             |                                                                |
 |          | 11 Feb   | Strong induction, Well-ordering Principle         | §2.5                 | [§17.2][]             | [HW 4][] due: 23 Feb 11:59pm on [gradescope][]                 |
 | **5**    | 15 Feb   | Order relations                                   | §3.3                 | [§13.1][], [§13.2][]  |                                                                |
@@ -40,25 +40,25 @@ Below we use the following acronyms:
 |          | 18 Mar   | Spring Recess                                     |                      |                       |                                                                |
 | **10**   | 22 Mar   | Algorithms: examples                              | §4.2                 |                       | [HW 6][] due: 30 Mar 11:59pm on [gradescope][]                 |
 |          | 25 Mar   | Algorithms: analysis                              | §4.3                 |                       |                                                                |
-| **11**   | 29 Mar   | Algorithms: recursion                             | §4.4                 |                       | [HW 7][] due: 6 Apr Mar 11:59pm on [gradescope][]              |
-|          | 1 Apr    | Recurrence relations: intro and examples          | §§7.1, 7.2           |                       |                                                                |
-| **12**   | 5 Apr    | Recurrence relations: algorithm analysis          | §7.3                 |                       | [HW 8][] due: 13 Apr 11:59pm on [gradescope][]                 |
-|          | 8 Apr    | Graphs: introduction, Hamiltonian cycles          | §§8.1--3             |                       |                                                                |
-| **13**   | 12 Apr   | Graphs: shortest path algorithm, isomorphisms     | §§8.4--6             |                       | [HW 9][] due: 20 Apr 11:59pm on [gradescope][]                 |
+| **11**   | 29 Mar   | Algorithms: recursion                             | §4.4                 |                       |                                                                | 
+|          | 1 Apr    | Recurrence relations: intro and examples          | §§7.1, 7.2           |                       | [HW 7][] due: ~6 Apr~ 11:59pm (deadline extended to 10 Apr)    |
+| **12**   | 5 Apr    | Recurrence relations: algorithm analysis          | §7.3                 |                       |                                                                |
+|          | 8 Apr    | Recurrence relations: algorithm analysis          |                      |                       |                                                                |
+| **13**   | 12 Apr   | Counting                                          | Ch 6                 |                       | [HW 8][] due: 20 Apr 11:59pm on [gradescope][]                 |
 |          | 15 Apr   | (Good Friday---no class)                          |                      |                       |                                                                |
-| **14**   | 19 Apr   | Trees: introduction, spanning trees               | §§9.1--3             |                       | [HW 10][] due: 27 Apr 11:59pm on [gradescope][]                |
-|          | 22 Apr   | Trees: minimal spanning, tree traversals          | §§9.4--6             |                       |                                                                |
-| **15**   | 26 Apr   | Trees: decision trees, sorting, isomorphisms      | §§9.7, 9.8           |                       |                                                                |
-|          | 29 Apr   |                                                   |                      |                       |                                                                |
-| **16**   | 3 May    | Review (last class)  |                 |                        | |
+| **14**   | 19 Apr   | Counting                                          | Ch 6                 |                       |                                                                |
+|          | 22 Apr   | Graphs: introduction, Hamiltonian cycles          | §§8.1--3             |                       | [HW 9][] due: 27 Apr 11:59pm on [gradescope][]                 |
+| **15**   | 26 Apr   | Graphs: shortest path algorithm, isomorphisms     | §§8.4--6             |                       |                                                                | 
+|          | 29 Apr   | Trees: introduction, spanning trees               | §§9.1--3             |                       |                                                                | 
+| **16**   | 3 May    | Trees: minimal spanning, tree traversals          | §§9.4--6             |                       |                                                                |
 |          | 4 May    | (reading day)        |                 |                        | |
 |          | 6 May    | (reading day)        |                 |                        | |
 |          | 6 May    | (final exams begin)  |                 |                        | |
 |          | 12 May   | (final exams end)    |                 |                        | |
 |          | 14 May   | (final grades due)   |                 |                        | |
 
-
-
+<!-- Trees: decision trees, sorting, isomorphisms      | §§9.7, 9.8           |                       |                                                                | -->
+<!-- Review (last class)  |                 |                        | | -->
 
 
 
@@ -107,8 +107,8 @@ Below we use the following acronyms:
 [HW 3]: https://github.com/williamdemeo/cs241-spring2022/raw/master/homework/hw03.pdf
 [HW 4]: https://github.com/williamdemeo/cs241-spring2022/raw/master/homework/hw04.pdf
 [HW 5]: https://github.com/williamdemeo/cs241-spring2022/raw/master/homework/hw05.pdf
-[HW 6]: https://github.com/williamdemeo/cs241-spring2022/raw/master/homework/
-[HW 7]: https://github.com/williamdemeo/cs241-spring2022/raw/master/homework/
-[HW 8]: https://github.com/williamdemeo/cs241-spring2022/raw/master/homework/
+[HW 6]: https://github.com/williamdemeo/cs241-spring2022/raw/master/homework/hw06.pdf
+[HW 7]: https://github.com/williamdemeo/cs241-spring2022/raw/master/homework/hw07.pdf
+[HW 8]: https://github.com/williamdemeo/cs241-spring2022/raw/master/homework/hw08.pdf
 [HW 9]: https://github.com/williamdemeo/cs241-spring2022/raw/master/homework/
 [HW 10]: https://github.com/williamdemeo/cs241-spring2022/raw/master/homework/
