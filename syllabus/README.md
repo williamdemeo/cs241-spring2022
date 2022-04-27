@@ -51,10 +51,8 @@ Below we use the following acronyms:
 | **15**   | 26 Apr   | Graphs: shortest path algorithm, isomorphisms     | §§8.4--6             |                       |                                                                | 
 |          | 29 Apr   | Trees: introduction, spanning trees               | §§9.1--3             |                       |                                                                | 
 | **16**   | 3 May    | Trees: minimal spanning, tree traversals          | §§9.4--6             |                       |                                                                |
-|          | 4 May    | (reading day)        |                 |                        | |
-|          | 6 May    | (reading day)        |                 |                        | |
-|          | 10 May   | **FINAL EXAM** 11:30--14:00 in KUPF 205   |                 |                        | |
-|          | 14 May   | (final grades due)   |                 |                        | |
+|          | 10 May   | **FINAL EXAM** 11:30--14:00 in [KUPF][] Rm.205    |                      |                       | |
+|          | 14 May   | (final grades due)                                |                      |                       | |
 
 <!-- Trees: decision trees, sorting, isomorphisms      | §§9.7, 9.8           |                       |                                                                | -->
 <!-- Review (last class)  |                 |                        | | -->
@@ -65,6 +63,7 @@ Below we use the following acronyms:
 
 
 
+[KUPF]: https://goo.gl/maps/GjhP3cjrMAJSzVFt5
 
 
 [ECEC 100]: https://goo.gl/maps/ZBW1fdPqii6frCJZ7

@@ -166,7 +166,8 @@ At the end of the semester, letter grades will be assigned roughly according to 
 
 +  **FINAL EXAM** (cumulative)  
    **DATE**. 10 May 2022  
-   **TIME**. 11:30--14:00
+   **TIME**. 11:30--14:00  
+   **PLACE**. [KUPF][] 205
 
 
 In accordance with university policy, **the final exam must be taken by all students at the scheduled time in the usual classroom.** *Do not make plans which would have you depart campus before the scheduled final exam date.*
@@ -266,3 +267,4 @@ early in the semester in order to have their learning needs appropriately met.
 [ECEC 100]: https://goo.gl/maps/ZBW1fdPqii6frCJZ7
 [Lean]: https://leanprover.github.io/
 [the course schedule]: https://github.com/williamdemeo/cs241-spring2022/tree/master/syllabus
+[KUPF]: https://goo.gl/maps/GjhP3cjrMAJSzVFt5
