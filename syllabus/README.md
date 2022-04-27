@@ -53,8 +53,7 @@ Below we use the following acronyms:
 | **16**   | 3 May    | Trees: minimal spanning, tree traversals          | §§9.4--6             |                       |                                                                |
 |          | 4 May    | (reading day)        |                 |                        | |
 |          | 6 May    | (reading day)        |                 |                        | |
-|          | 6 May    | (final exams begin)  |                 |                        | |
-|          | 12 May   | (final exams end)    |                 |                        | |
+|          | 10 May   | **FINAL EXAM** 11:30--14:00 in KUPF 205   |                 |                        | |
 |          | 14 May   | (final grades due)   |                 |                        | |
 
 <!-- Trees: decision trees, sorting, isomorphisms      | §§9.7, 9.8           |                       |                                                                | -->

@@ -165,8 +165,8 @@ At the end of the semester, letter grades will be assigned roughly according to 
 
 
 +  **FINAL EXAM** (cumulative)  
-   **DATE**. TBA  
-   **TIME**. TBA
+   **DATE**. 10 May 2022  
+   **TIME**. 11:30--14:00
 
 
 In accordance with university policy, **the final exam must be taken by all students at the scheduled time in the usual classroom.** *Do not make plans which would have you depart campus before the scheduled final exam date.*
