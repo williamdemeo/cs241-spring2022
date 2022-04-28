@@ -47,8 +47,8 @@ Below we use the following acronyms:
 | **13**   | 12 Apr   | Counting                                          | Ch 6                 |                       | [HW 8][] due: 20 Apr 11:59pm on [gradescope][]                 |
 |          | 15 Apr   | (Good Friday---no class)                          |                      |                       |                                                                |
 | **14**   | 19 Apr   | Counting                                          | Ch 6                 |                       |                                                                |
-|          | 22 Apr   | Graphs: introduction, Hamiltonian cycles          | §§8.1--3             |                       | [HW 9][] due: 27 Apr 11:59pm on [gradescope][]                 |
-| **15**   | 26 Apr   | Graphs: shortest path algorithm, isomorphisms     | §§8.4--6             |                       |                                                                | 
+|          | 22 Apr   | Graphs: introduction, Hamiltonian cycles          | §§8.1--3             |                       |                                                                | 
+| **15**   | 26 Apr   | Graphs: shortest path algorithm, isomorphisms     | §§8.4--6             |                       | [HW 9][] due: 3 May 11:59pm on [gradescope][]                  |
 |          | 29 Apr   | Trees: introduction, spanning trees               | §§9.1--3             |                       |                                                                | 
 | **16**   | 3 May    | Trees: minimal spanning, tree traversals          | §§9.4--6             |                       |                                                                |
 |          | 10 May   | **FINAL EXAM** 11:30--14:00 in [KUPF][] Rm.205    |                      |                       | |
